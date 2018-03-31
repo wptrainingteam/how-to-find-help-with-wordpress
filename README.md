@@ -30,11 +30,15 @@ WordPress can be used in many wonderful ways to create blogs, eCommerce stores, 
 
 #### Wordpress.org Support
 
-Support for self-hosted WordPress installations is available through the [WordPress.org support forums](https://en.forums.wordpress.com/). These forums provide a platform where users and developers can seek help from others who either have WordPress expertise or who have experienced similar problems in the past and resolved them. WordPress support is accessible at [https://wordpress.org/support/](https://wordpress.org/support/). Though WordPress Support Forums are a fantastic resource with a ton of information, sometimes people have trouble getting help there and they don't know why. This is usually the result of a communication gap. If you're struggling to find help using the forums, check out the [guide to using the support forums](http://codex.wordpress.org/Using_the_Support_Forums) found in the Codex. [![wordpress.org_support](http://make.wordpress.org/training/files/2014/12/wordpress.org_support.jpg)](http://make.wordpress.org/training/files/2014/12/wordpress.org_support.jpg)
+Support for self-hosted WordPress installations is available through the [WordPress.org support forums](https://en.forums.wordpress.com/). These forums provide a platform where users and developers can seek help from others who either have WordPress expertise or who have experienced similar problems in the past and resolved them. WordPress support is accessible at [https://wordpress.org/support/](https://wordpress.org/support/). Though WordPress Support Forums are a fantastic resource with a ton of information, sometimes people have trouble getting help there and they don't know why. This is usually the result of a communication gap. If you're struggling to find help using the forums, check out the [guide to using the support forums](http://codex.wordpress.org/Using_the_Support_Forums) found in the Codex. 
+
+![wordpress.org_support](/images/wordpress.org_support.jpg)
 
 #### WordPress Codex
 
-[The Codex](http://codex.wordpress.org/) is a documentation repository where any developer can access resources that explain how to create themes and plugins. It is a very useful reference for developers, but is not always a great place to find help in troubleshooting problems and may include some out of date information. The Codex does contain a page that might be useful in some troubleshooting situations. The [Common WordPress Errors](https://codex.wordpress.org/Common_WordPress_Errors) page lists the most common errors experienced by WordPress Users and provides a starting point for fixing them. [![codex](http://make.wordpress.org/training/files/2014/12/codex.jpg)](http://make.wordpress.org/training/files/2014/12/codex.jpg)
+[The Codex](http://codex.wordpress.org/) is a documentation repository where any developer can access resources that explain how to create themes and plugins. It is a very useful reference for developers, but is not always a great place to find help in troubleshooting problems and may include some out of date information. The Codex does contain a page that might be useful in some troubleshooting situations. The [Common WordPress Errors](https://codex.wordpress.org/Common_WordPress_Errors) page lists the most common errors experienced by WordPress Users and provides a starting point for fixing them. 
+
+![codex](/images/codex.jpg)
 
 #### WordPress Events
 
@@ -42,15 +46,21 @@ Support for self-hosted WordPress installations is available through the [WordPr
 
 #### WordPress.tv
 
-![](https://cldup.com/dZKtVH1YEy.png) [WordPress.tv](http://wordpress.tv/) is the best place to find videos about WordPress including videos of presentations from WordCamps and meetups, tutorials and screencasts, and videos from other community events. If possible, presentation videos also include a link to the slides for the presentation. WordPress.tv is not just a support resource, but is also a place to keep up with all the activities and developments in the WordPress Community.
+![](/images/dZKtVH1YEy.png)
+
+[WordPress.tv](http://wordpress.tv/) is the best place to find videos about WordPress including videos of presentations from WordCamps and meetups, tutorials and screencasts, and videos from other community events. If possible, presentation videos also include a link to the slides for the presentation. WordPress.tv is not just a support resource, but is also a place to keep up with all the activities and developments in the WordPress Community.
 
 #### Using Search Engines
 
-Search engines allow you to search for resources online that contain content relevant to the keywords entered in the search query. Most of the time, millions of web pages are presented in search results. Search engines can often be used to find help with WordPress and may direct you to the relevant sections of resources we've already discussed in this lesson. For example, the first few results for a simple search like "WordPress password recovery" include resources from the WordPress codex, the WordPress support forums, and several blogs. [![google-search](http://make.wordpress.org/training/files/2014/12/google-search.jpg)](http://make.wordpress.org/training/files/2014/12/google-search.jpg)
+Search engines allow you to search for resources online that contain content relevant to the keywords entered in the search query. Most of the time, millions of web pages are presented in search results. Search engines can often be used to find help with WordPress and may direct you to the relevant sections of resources we've already discussed in this lesson. For example, the first few results for a simple search like "WordPress password recovery" include resources from the WordPress codex, the WordPress support forums, and several blogs. 
+
+![google-search](/images/google-search.jpg)
 
 #### WordPress StackExchange Community
 
-The [WordPress StackExchange Community](http://wordpress.stackexchange.com/) is a developer community where members answer questions from other members relating to WordPress development. This community is composed mostly of developers who exchange technical knowledge. [![stack_exchange_wordpress](http://make.wordpress.org/training/files/2014/12/stack_exchange_wordpress.jpg)](http://make.wordpress.org/training/files/2014/12/stack_exchange_wordpress.jpg)
+The [WordPress StackExchange Community](http://wordpress.stackexchange.com/) is a developer community where members answer questions from other members relating to WordPress development. This community is composed mostly of developers who exchange technical knowledge. 
+
+![stack_exchange_wordpress](/images/stack_exchange_wordpress.jpg)
 
 #### Plugin & Theme Support
 
@@ -58,7 +68,11 @@ Plugins extend the functionality of WordPress and there are thousands of them th
 
 #### WordPress Dashboard Help Tab
 
-[caption id="" align="aligncenter" width="474"]![](https://cldup.com/7lkOzuOelC.png) WordPress Help tab[/caption] When you are logged into your WordPress dashboard, the dashboard "Help" tab provides a guide on how to navigate the dashboard and is a very handy resource for new users. When you click the "Help" tab it will open up as shown here: [caption id="" align="aligncenter" width="731"]![](https://cldup.com/Y7R-AnqV67.png) WordPress Dashboard Help Tab[/caption]
+![](/images/7lkOzuOelC.png)
+
+When you are logged into your WordPress dashboard, the dashboard "Help" tab provides a guide on how to navigate the dashboard and is a very handy resource for new users. When you click the "Help" tab it will open up as shown here: 
+
+![](/images/Y7R-AnqV67.png) 
 
 #### How to Ask for Help
 
