@@ -30,7 +30,9 @@ WordPress can be used in many wonderful ways to create blogs, eCommerce stores, 
 
 #### Wordpress.org Support
 
-Support for self-hosted WordPress installations is available through the [WordPress.org support forums](https://en.forums.wordpress.com/). These forums provide a platform where users and developers can seek help from others who either have WordPress expertise or who have experienced similar problems in the past and resolved them. WordPress support is accessible at [https://wordpress.org/support/](https://wordpress.org/support/). Though WordPress Support Forums are a fantastic resource with a ton of information, sometimes people have trouble getting help there and they don't know why. This is usually the result of a communication gap. If you're struggling to find help using the forums, check out the [guide to using the support forums](http://codex.wordpress.org/Using_the_Support_Forums) found in the Codex. [![wordpress.org_support](http://make.wordpress.org/training/files/2014/12/wordpress.org_support.jpg)](http://make.wordpress.org/training/files/2014/12/wordpress.org_support.jpg)
+Support for self-hosted WordPress installations is available through the [WordPress.org support forums](https://en.forums.wordpress.com/). These forums provide a platform where users and developers can seek help from others who either have WordPress expertise or who have experienced similar problems in the past and resolved them. WordPress support is accessible at [https://wordpress.org/support/](https://wordpress.org/support/). Though WordPress Support Forums are a fantastic resource with a ton of information, sometimes people have trouble getting help there and they don't know why. This is usually the result of a communication gap. If you're struggling to find help using the forums, check out the [guide to using the support forums](http://codex.wordpress.org/Using_the_Support_Forums) found in the Codex. 
+
+![wordpress.org_support](/images/wordpress.org_support.jpg)
 
 #### WordPress Codex
 
