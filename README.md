@@ -96,7 +96,9 @@ When seeking help related to a plugin or theme, it is very helpful to include co
 2.  Theme Developer
 3.  Post it on WordPress StackExchange page
 
-**Answer:** 2. Theme Developer **You forgot your password for your self-hosted WordPress site, what should you do first?**
+**Answer:** 2. Theme Developer 
+
+**You forgot your password for your self-hosted WordPress site, what should you do first?**
 
 1.  Post a question about it on Stack Exchange
 2.  Contact WordPress Happiness Engineers
